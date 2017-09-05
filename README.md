@@ -12,4 +12,5 @@ Refactored | |  | |  |  | |
 ArgumentChanged | |  |  |  | | |
 Body-only | |  | |  |  | |
 Deleted | |  |  |  |  | |
+
 They might be numbers written in paranthesis for the intersections with the same change type in AN and CM. Those are the number of method that had an identical type of change, as were purged. The number before paranthesis does not include the number in the paranthesis, so the paranthesis can be simply ignored in most cases.
