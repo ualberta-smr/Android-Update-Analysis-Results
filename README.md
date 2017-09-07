@@ -1,6 +1,6 @@
 # icse-2018-mehran-results
 
-This repository contains the results produced by [these scripts](https://github.com/ualberta-se/mehran-android-evolution).
+This repository contains the results produced by [these scripts](https://github.com/ualberta-se/mehran-android-evolution). The code was executed on 08/20/2017 20:42:47 MDT and finished running on 08/21/2017 07:18:02 MDT.
 ### [plot_data](plot_data)
 This folder contains csv files produced by the [process_results_charts.py](https://github.com/ualberta-se/mehran-android-evolution/blob/master/python/process_results_charts.py), R scripts for drawing plots, and also PDF files of the plots.
 ### [subsystem_names](subsystem_names) 
