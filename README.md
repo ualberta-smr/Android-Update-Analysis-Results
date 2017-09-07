@@ -1,6 +1,8 @@
 # Android Update Analysis Results
 
-This repository contains the results produced by the [Android Update Analysis](https://github.com/ualberta-se/Android-Update-Analysis). To see the results used in our ICSE 2018 paper please refer to tag `icse-2018-submission`.
+This repository contains the results produced by the [Android Update Analysis](https://github.com/ualberta-se/Android-Update-Analysis).
+
+To see the results used in our ICSE 2018 paper please refer to tag `icse-2018-submission`.
 The code was executed on 08/20/2017 20:42:47 MDT and finished running on 08/21/2017 07:18:02 MDT.
 ### [plot_data](plot_data)
 This folder contains csv files produced by the [process_results_charts.py](https://github.com/ualberta-se/mehran-android-evolution/blob/master/python/process_results_charts.py), R scripts for drawing plots, and also PDF files of the plots.
