@@ -20,3 +20,7 @@ Body-only | |  | |  |  | |
 Deleted | |  |  |  |  | |
 
 There might be numbers written in paranthesis for the intersections with the same change type in AN and CM. Those are the number of method that had an identical type of change, and were purged from the total number of methods in that category. The number before paranthesis does not include the number in the paranthesis, so the numbers in paranthesis can be simply ignored in most cases.
+
+## Team
+- [Mehran Mahmoudi](https://webapps.cs.ualberta.ca/profile/), University of Alberta (Main contact)
+- [Sarah Nadi](http://www.sarahnadi.org), University of Alberta
