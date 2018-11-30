@@ -1,6 +1,6 @@
 # Android Update Analysis Results
 
-This repository contains the results produced by the [Android Update Analysis](https://github.com/ualberta-se/Android-Update-Analysis) on 8 versions of LineageOS and their corresponding AOSP versions (cm-10.1, cm-10.2, cm-11.0, cm-12.0, cm-12.1, cm-13.0, cm-14.0, cm-14.1).
+This repository contains the results produced by the [Android Update Analysis](https://github.com/ualberta-se/Android-Update-Analysis) on 8 versions of LineageOS and their corresponding AOSP versions (cm-10.1, cm-10.2, cm-11.0, cm-12.0, cm-12.1, cm-13.0, cm-14.0, cm-14.1). This data was used in our MSR '18 submission.
 
 The analysis took 14 hours and 25 minutes to execute, on a machine with 128 GB of memory and an AMD Ryzen Threadripper 1950X 16-Core processor.
 
