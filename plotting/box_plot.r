@@ -48,11 +48,11 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 }
 
 create_box_plot <- function(data, an_type, cm_type){
-	plot <- ggplot(data, aes(x=factor(0),y=proportion)) +
+	plot <- ggplot(data, aes(x=factor(0),y=count)) +
 		ggtitle(paste(paste('AN:',an_type, sep=''), paste('CM:', cm_type, sep=''),sep=" ")) +
 		geom_boxplot() +
 		xlab('') +
-		ylab('Proportion') +
+		ylab('Count') +
 		theme(title=element_text(size=5), axis.text.y=element_text(size=6))
 	return(plot)
 }
